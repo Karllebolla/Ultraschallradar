@@ -4,7 +4,7 @@
 
 ## Raspbian
 
-Wir standen zwischen der Auswahl von ArchLinux und dem Raspbiannetinstaller ( minimale Version von Respbian ), haben uns für den Raspbiannetinstaller entschieden, da die größe der beiden Systeme ähnlich ist, der Raspiannetinstaller aber eine gewohnte Umgebung mit sich bringt.
+Ich standen zwischen der Auswahl von ArchLinux und dem Raspbiannetinstaller ( minimale Version von Respbian ), ich habe mich für den Raspbiannetinstaller entschieden, da die größe der beiden Systeme ähnlich ist, der Raspiannetinstaller aber eine gewohnte Umgebung mit sich bringt.
 
 Für die Installation muss folgendes zip-file herunter geladen werden [raspbian-ua-netinst v1.0.2] (https://github.com/debian-pi/raspbian-ua-netinst/releases#raspbian-ua-netinst/raspbian-ua-netinst-latest.zip).
 Das zip-file muss entpackt und auf eine SD-Karte, die zuvor mit FAT32 formatiert wurde, kopiert werden.
@@ -41,7 +41,7 @@ mkdir build; cd build
 
 ## zusätzlicher Temperatursensor
 
-Zusätzlich wurde noch der Temperatur Sensor [BMP085](http://www.adafruit.com/datasheets/BMP085_DataSheet_Rev.1.0_01July2008.pdf "Bosch BMP085") verwendet. Dieser kann wie auf folgender [Seite](https://bitbucket.org/doriemel/temperaturmessung/wiki/Home "Installation des BMP085") installiert werden.
+Zusätzlich wurde noch der Temperatur Sensor [BMP085](http://www.adafruit.com/datasheets/BMP085_DataSheet_Rev.1.0_01July2008.pdf "Bosch BMP085") verwendet. Dieser kann wie auf folgender [Seite](https://github.com/Karllebolla/Temperaturmessung "Installation des BMP085") installiert werden.
 Dieser Temperatur Sensor fließt in die Berechnung für die Schallgeschwindigkeit mit ein.
 In der Datei alegroUltraschall.c wurde ein Flag definiert.
 ```c
