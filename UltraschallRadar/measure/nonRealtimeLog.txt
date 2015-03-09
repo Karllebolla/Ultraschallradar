@@ -1,0 +1,680 @@
+
+
+TURNS 0
+entfernung        -1236198.750000
+position          0
+motor             0
+gui               0
+sensor            0
+
+readedDistance:   -1236198
+
+
+TURNS 1
+entfernung        -851587.625000
+position          1
+motor             1
+gui               1
+sensor            1
+
+readedDistance:   -851587
+
+
+TURNS 2
+entfernung        -472341.218750
+position          2
+motor             2
+gui               2
+sensor            2
+
+readedDistance:   -472341
+
+
+TURNS 3
+entfernung        -93013.289062
+position          3
+motor             3
+gui               3
+sensor            3
+
+readedDistance:   -93013
+
+
+TURNS 4
+entfernung        0.000000
+position          4
+motor             4
+gui               4
+sensor            4
+
+readedDistance:   30
+
+
+TURNS 5
+entfernung        0.000000
+position          5
+motor             5
+gui               5
+sensor            5
+
+readedDistance:   30
+
+
+TURNS 6
+entfernung        0.000000
+position          6
+motor             6
+gui               6
+sensor            6
+
+readedDistance:   30
+
+
+TURNS 7
+entfernung        0.000000
+position          7
+motor             7
+gui               7
+sensor            7
+
+readedDistance:   30
+
+
+TURNS 8
+entfernung        0.000000
+position          8
+motor             8
+gui               8
+sensor            8
+
+readedDistance:   30
+
+
+TURNS 9
+entfernung        0.000000
+position          9
+motor             9
+gui               9
+sensor            9
+
+readedDistance:   30
+
+
+TURNS 10
+entfernung        -2051648.750000
+position          10
+motor             10
+gui               10
+sensor            10
+
+readedDistance:   -2051648
+
+
+TURNS 11
+entfernung        -1672571.750000
+position          11
+motor             11
+gui               11
+sensor            11
+
+readedDistance:   -1672571
+
+
+TURNS 12
+entfernung        -1294948.125000
+position          12
+motor             12
+gui               12
+sensor            12
+
+readedDistance:   -1294948
+
+
+TURNS 13
+entfernung        -915154.875000
+position          13
+motor             13
+gui               13
+sensor            13
+
+readedDistance:   -915154
+
+
+TURNS 14
+entfernung        -536100.875000
+position          14
+motor             14
+gui               14
+sensor            14
+
+readedDistance:   -536100
+
+
+TURNS 15
+entfernung        -219910.281250
+position          15
+motor             15
+gui               15
+sensor            15
+
+readedDistance:   -219910
+
+
+TURNS 16
+entfernung        0.000000
+position          16
+motor             16
+gui               16
+sensor            16
+
+readedDistance:   30
+
+
+TURNS 17
+entfernung        0.000000
+position          17
+motor             17
+gui               17
+sensor            17
+
+readedDistance:   30
+
+
+TURNS 18
+entfernung        0.000000
+position          16
+motor             18
+gui               18
+sensor            18
+
+readedDistance:   30
+
+
+TURNS 19
+entfernung        0.000000
+position          15
+motor             19
+gui               19
+sensor            19
+
+readedDistance:   30
+
+
+TURNS 20
+entfernung        0.000000
+position          14
+motor             20
+gui               20
+sensor            20
+
+readedDistance:   30
+
+
+TURNS 21
+entfernung        0.000000
+position          13
+motor             21
+gui               21
+sensor            21
+
+readedDistance:   30
+
+
+TURNS 22
+entfernung        -2114380.750000
+position          12
+motor             22
+gui               22
+sensor            22
+
+readedDistance:   -2114380
+
+
+TURNS 23
+entfernung        -1734518.375000
+position          11
+motor             23
+gui               23
+sensor            23
+
+readedDistance:   -1734518
+
+
+TURNS 24
+entfernung        -1418320.500000
+position          10
+motor             24
+gui               24
+sensor            24
+
+readedDistance:   -1418320
+
+
+TURNS 25
+entfernung        -1039432.750000
+position          9
+motor             25
+gui               25
+sensor            25
+
+readedDistance:   -1039432
+
+
+TURNS 26
+entfernung        -659903.000000
+position          8
+motor             26
+gui               26
+sensor            26
+
+readedDistance:   -659903
+
+
+TURNS 27
+entfernung        -281000.625000
+position          7
+motor             27
+gui               27
+sensor            27
+
+readedDistance:   -281000
+
+
+TURNS 28
+entfernung        0.000000
+position          6
+motor             28
+gui               28
+sensor            28
+
+readedDistance:   30
+
+
+TURNS 29
+entfernung        0.000000
+position          5
+motor             29
+gui               29
+sensor            29
+
+readedDistance:   30
+
+
+TURNS 30
+entfernung        0.000000
+position          4
+motor             30
+gui               30
+sensor            30
+
+readedDistance:   30
+
+
+TURNS 31
+entfernung        0.000000
+position          3
+motor             31
+gui               31
+sensor            31
+
+readedDistance:   30
+
+
+TURNS 32
+entfernung        0.000000
+position          2
+motor             32
+gui               32
+sensor            32
+
+readedDistance:   30
+
+
+TURNS 33
+entfernung        0.000000
+position          1
+motor             33
+gui               33
+sensor            33
+
+readedDistance:   30
+
+
+TURNS 34
+entfernung        -2242058.750000
+position          0
+motor             34
+gui               34
+sensor            34
+
+readedDistance:   -2242058
+
+
+TURNS 35
+entfernung        -1988316.375000
+position          0
+motor             35
+gui               35
+sensor            35
+
+readedDistance:   -1988316
+
+
+TURNS 36
+entfernung        -1671082.250000
+position          1
+motor             36
+gui               36
+sensor            36
+
+readedDistance:   -1671082
+
+
+TURNS 37
+entfernung        -1291945.750000
+position          2
+motor             37
+gui               37
+sensor            37
+
+readedDistance:   -1291945
+
+
+TURNS 38
+entfernung        -912434.812500
+position          3
+motor             38
+gui               38
+sensor            38
+
+readedDistance:   -912434
+
+
+TURNS 39
+entfernung        -533374.500000
+position          4
+motor             39
+gui               39
+sensor            39
+
+readedDistance:   -533374
+
+
+TURNS 40
+entfernung        -153267.640625
+position          5
+motor             40
+gui               40
+sensor            40
+
+readedDistance:   -153267
+
+
+TURNS 41
+entfernung        0.000000
+position          6
+motor             41
+gui               41
+sensor            41
+
+readedDistance:   30
+
+
+TURNS 42
+entfernung        0.000000
+position          7
+motor             42
+gui               42
+sensor            42
+
+readedDistance:   30
+
+
+TURNS 43
+entfernung        0.000000
+position          8
+motor             43
+gui               43
+sensor            43
+
+readedDistance:   30
+
+
+TURNS 44
+entfernung        0.000000
+position          9
+motor             44
+gui               44
+sensor            44
+
+readedDistance:   30
+
+
+TURNS 45
+entfernung        0.000000
+position          10
+motor             45
+gui               45
+sensor            45
+
+readedDistance:   30
+
+
+TURNS 46
+entfernung        0.000000
+position          11
+motor             46
+gui               46
+sensor            46
+
+readedDistance:   30
+
+
+TURNS 47
+entfernung        -2115543.750000
+position          12
+motor             47
+gui               47
+sensor            47
+
+readedDistance:   -2115543
+
+
+TURNS 48
+entfernung        -1736156.250000
+position          13
+motor             48
+gui               48
+sensor            48
+
+readedDistance:   -1736156
+
+
+TURNS 49
+entfernung        -1356391.250000
+position          14
+motor             49
+gui               49
+sensor            49
+
+readedDistance:   -1356391
+
+
+TURNS 50
+entfernung        -976661.812500
+position          15
+motor             50
+gui               50
+sensor            50
+
+readedDistance:   -976661
+
+
+TURNS 51
+entfernung        -659229.062500
+position          16
+motor             51
+gui               51
+sensor            51
+
+readedDistance:   -659229
+
+
+TURNS 52
+entfernung        -276291.875000
+position          17
+motor             52
+gui               52
+sensor            52
+
+readedDistance:   -276291
+
+
+TURNS 53
+entfernung        0.000000
+position          16
+motor             53
+gui               53
+sensor            53
+
+readedDistance:   30
+
+
+TURNS 54
+entfernung        0.000000
+position          15
+motor             54
+gui               54
+sensor            54
+
+readedDistance:   30
+
+
+TURNS 55
+entfernung        0.000000
+position          14
+motor             55
+gui               55
+sensor            55
+
+readedDistance:   30
+
+
+TURNS 56
+entfernung        0.000000
+position          13
+motor             56
+gui               56
+sensor            56
+
+readedDistance:   30
+
+
+TURNS 57
+entfernung        0.000000
+position          12
+motor             57
+gui               57
+sensor            57
+
+readedDistance:   30
+
+
+TURNS 58
+entfernung        0.000000
+position          11
+motor             58
+gui               58
+sensor            58
+
+readedDistance:   30
+
+
+TURNS 59
+entfernung        -2172225.000000
+position          10
+motor             59
+gui               59
+sensor            59
+
+readedDistance:   -2172225
+
+
+TURNS 60
+entfernung        -1855087.125000
+position          9
+motor             60
+gui               60
+sensor            60
+
+readedDistance:   -1855087
+
+
+TURNS 61
+entfernung        -1475825.000000
+position          8
+motor             61
+gui               61
+sensor            61
+
+readedDistance:   -1475825
+
+
+TURNS 62
+entfernung        -1096996.875000
+position          7
+motor             62
+gui               62
+sensor            62
+
+readedDistance:   -1096996
+
+
+TURNS 63
+entfernung        -718096.562500
+position          6
+motor             63
+gui               63
+sensor            63
+
+readedDistance:   -718096
+
+
+TURNS 64
+entfernung        -338624.343750
+position          5
+motor             64
+gui               64
+sensor            64
+
+readedDistance:   -338624
+
+
+TURNS 65
+entfernung        -22569.666016
+position          4
+motor             65
+gui               65
+sensor            65
+
+readedDistance:   -22569
+
+
+TURNS 66
+entfernung        0.000000
+position          3
+motor             66
+gui               66
+sensor            66
+
+readedDistance:   30
+
+
+TURNS 67
+entfernung        0.000000
+position          2
+motor             67
+gui               67
+sensor            67
+
+readedDistance:   30

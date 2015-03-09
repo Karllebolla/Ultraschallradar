@@ -1,0 +1,548 @@
+GUI  start  sec 69  nsec 30 
+GUI  end    sec 69  nsec 0 
+MO F  start  sec 0  nsec 0 
+MO F  end    sec 0  nsec 0 
+MO B  start  sec 0  nsec 0 
+MO B  end    sec 0  nsec 0 
+SEN  start  sec 1418766718  nsec 436425888 
+SEN  end    sec 1418766718  nsec 436944881 
+GUI  start  sec 0  nsec 0 
+GUI  end    sec 0  nsec 0 
+MO F  start  sec 0  nsec 0 
+MO F  end    sec 0  nsec 0 
+MO B  start  sec 0  nsec 0 
+MO B  end    sec 0  nsec 0 
+SEN  start  sec 1418766718  nsec 797630521 
+SEN  end    sec 1418766718  nsec 799411499 
+GUI  start  sec 0  nsec 0 
+GUI  end    sec 0  nsec 0 
+MO F  start  sec 0  nsec 0 
+MO F  end    sec 0  nsec 0 
+MO B  start  sec 0  nsec 0 
+MO B  end    sec 0  nsec 0 
+SEN  start  sec 0  nsec 0 
+SEN  end    sec 0  nsec 0 
+GUI  start  sec 0  nsec 0 
+GUI  end    sec 0  nsec 0 
+MO F  start  sec 0  nsec 0 
+MO F  end    sec 0  nsec 0 
+MO B  start  sec 0  nsec 0 
+MO B  end    sec 0  nsec 0 
+SEN  start  sec 0  nsec 0 
+SEN  end    sec 0  nsec 0 
+GUI  start  sec 0  nsec 0 
+GUI  end    sec 0  nsec 0 
+MO F  start  sec 0  nsec 0 
+MO F  end    sec 0  nsec 0 
+MO B  start  sec 0  nsec 0 
+MO B  end    sec 0  nsec 0 
+SEN  start  sec 0  nsec 0 
+SEN  end    sec 0  nsec 0 
+GUI  start  sec 0  nsec 0 
+GUI  end    sec 0  nsec 0 
+MO F  start  sec 0  nsec 0 
+MO F  end    sec 0  nsec 0 
+MO B  start  sec 0  nsec 0 
+MO B  end    sec 0  nsec 0 
+SEN  start  sec 0  nsec 0 
+SEN  end    sec 0  nsec 0 
+GUI  start  sec 0  nsec 0 
+GUI  end    sec 0  nsec 0 
+MO F  start  sec 0  nsec 0 
+MO F  end    sec 0  nsec 0 
+MO B  start  sec 0  nsec 0 
+MO B  end    sec 0  nsec 0 
+SEN  start  sec 0  nsec 0 
+SEN  end    sec 0  nsec 0 
+GUI  start  sec 0  nsec 0 
+GUI  end    sec 0  nsec 0 
+MO F  start  sec 0  nsec 0 
+MO F  end    sec 0  nsec 0 
+MO B  start  sec 0  nsec 0 
+MO B  end    sec 0  nsec 0 
+SEN  start  sec 0  nsec 0 
+SEN  end    sec 0  nsec 0 
+GUI  start  sec 0  nsec 0 
+GUI  end    sec 0  nsec 0 
+MO F  start  sec 0  nsec 0 
+MO F  end    sec 0  nsec 0 
+MO B  start  sec 0  nsec 0 
+MO B  end    sec 0  nsec 0 
+SEN  start  sec 0  nsec 0 
+SEN  end    sec 0  nsec 0 
+GUI  start  sec 0  nsec 0 
+GUI  end    sec 0  nsec 0 
+MO F  start  sec 0  nsec 0 
+MO F  end    sec 0  nsec 0 
+MO B  start  sec 0  nsec 0 
+MO B  end    sec 0  nsec 0 
+SEN  start  sec 0  nsec 0 
+SEN  end    sec 0  nsec 0 
+GUI  start  sec 0  nsec 0 
+GUI  end    sec 0  nsec 0 
+MO F  start  sec 0  nsec 0 
+MO F  end    sec 0  nsec 0 
+MO B  start  sec 0  nsec 0 
+MO B  end    sec 0  nsec 0 
+SEN  start  sec 0  nsec 0 
+SEN  end    sec 0  nsec 0 
+GUI  start  sec 0  nsec 0 
+GUI  end    sec 0  nsec 0 
+MO F  start  sec 0  nsec 0 
+MO F  end    sec 0  nsec 0 
+MO B  start  sec 0  nsec 0 
+MO B  end    sec 0  nsec 0 
+SEN  start  sec 0  nsec 0 
+SEN  end    sec 0  nsec 0 
+GUI  start  sec 0  nsec 0 
+GUI  end    sec 0  nsec 0 
+MO F  start  sec 0  nsec 0 
+MO F  end    sec 0  nsec 0 
+MO B  start  sec 0  nsec 0 
+MO B  end    sec 0  nsec 0 
+SEN  start  sec 0  nsec 0 
+SEN  end    sec 0  nsec 0 
+GUI  start  sec 0  nsec 0 
+GUI  end    sec 0  nsec 0 
+MO F  start  sec 0  nsec 0 
+MO F  end    sec 0  nsec 0 
+MO B  start  sec 0  nsec 0 
+MO B  end    sec 0  nsec 0 
+SEN  start  sec 0  nsec 0 
+SEN  end    sec 0  nsec 0 
+GUI  start  sec 0  nsec 0 
+GUI  end    sec 0  nsec 0 
+MO F  start  sec 0  nsec 0 
+MO F  end    sec 0  nsec 0 
+MO B  start  sec 0  nsec 0 
+MO B  end    sec 0  nsec 0 
+SEN  start  sec 0  nsec 0 
+SEN  end    sec 0  nsec 0 
+GUI  start  sec 0  nsec 0 
+GUI  end    sec 0  nsec 0 
+MO F  start  sec 0  nsec 0 
+MO F  end    sec 0  nsec 0 
+MO B  start  sec 0  nsec 0 
+MO B  end    sec 0  nsec 0 
+SEN  start  sec 0  nsec 0 
+SEN  end    sec 0  nsec 0 
+GUI  start  sec 0  nsec 0 
+GUI  end    sec 0  nsec 0 
+MO F  start  sec 0  nsec 0 
+MO F  end    sec 0  nsec 0 
+MO B  start  sec 0  nsec 0 
+MO B  end    sec 0  nsec 0 
+SEN  start  sec 0  nsec 0 
+SEN  end    sec 0  nsec 0 
+GUI  start  sec 0  nsec 0 
+GUI  end    sec 0  nsec 0 
+MO F  start  sec 0  nsec 0 
+MO F  end    sec 0  nsec 0 
+MO B  start  sec 0  nsec 0 
+MO B  end    sec 0  nsec 0 
+SEN  start  sec 0  nsec 0 
+SEN  end    sec 0  nsec 0 
+GUI  start  sec 0  nsec 0 
+GUI  end    sec 0  nsec 0 
+MO F  start  sec 0  nsec 0 
+MO F  end    sec 0  nsec 0 
+MO B  start  sec 0  nsec 0 
+MO B  end    sec 0  nsec 0 
+SEN  start  sec 0  nsec 0 
+SEN  end    sec 0  nsec 0 
+GUI  start  sec 0  nsec 0 
+GUI  end    sec 0  nsec 0 
+MO F  start  sec 0  nsec 0 
+MO F  end    sec 0  nsec 0 
+MO B  start  sec 0  nsec 0 
+MO B  end    sec 0  nsec 0 
+SEN  start  sec 0  nsec 0 
+SEN  end    sec 0  nsec 0 
+GUI  start  sec 0  nsec 0 
+GUI  end    sec 0  nsec 0 
+MO F  start  sec 0  nsec 0 
+MO F  end    sec 0  nsec 0 
+MO B  start  sec 0  nsec 0 
+MO B  end    sec 0  nsec 0 
+SEN  start  sec 0  nsec 0 
+SEN  end    sec 0  nsec 0 
+GUI  start  sec 0  nsec 0 
+GUI  end    sec 0  nsec 0 
+MO F  start  sec 0  nsec 0 
+MO F  end    sec 0  nsec 0 
+MO B  start  sec 0  nsec 0 
+MO B  end    sec 0  nsec 0 
+SEN  start  sec 0  nsec 0 
+SEN  end    sec 0  nsec 0 
+GUI  start  sec 0  nsec 0 
+GUI  end    sec 0  nsec 0 
+MO F  start  sec 0  nsec 0 
+MO F  end    sec 0  nsec 0 
+MO B  start  sec 0  nsec 0 
+MO B  end    sec 0  nsec 0 
+SEN  start  sec 0  nsec 0 
+SEN  end    sec 0  nsec 0 
+GUI  start  sec 0  nsec 0 
+GUI  end    sec 0  nsec 0 
+MO F  start  sec 0  nsec 0 
+MO F  end    sec 0  nsec 0 
+MO B  start  sec 0  nsec 0 
+MO B  end    sec 0  nsec 0 
+SEN  start  sec 0  nsec 0 
+SEN  end    sec 0  nsec 0 
+GUI  start  sec 0  nsec 0 
+GUI  end    sec 0  nsec 0 
+MO F  start  sec 0  nsec 0 
+MO F  end    sec 0  nsec 0 
+MO B  start  sec 0  nsec 0 
+MO B  end    sec 0  nsec 0 
+SEN  start  sec 0  nsec 0 
+SEN  end    sec 0  nsec 0 
+GUI  start  sec 0  nsec 0 
+GUI  end    sec 0  nsec 0 
+MO F  start  sec 0  nsec 0 
+MO F  end    sec 0  nsec 0 
+MO B  start  sec 0  nsec 0 
+MO B  end    sec 0  nsec 0 
+SEN  start  sec 0  nsec 0 
+SEN  end    sec 0  nsec 0 
+GUI  start  sec 0  nsec 0 
+GUI  end    sec 0  nsec 0 
+MO F  start  sec 0  nsec 0 
+MO F  end    sec 0  nsec 0 
+MO B  start  sec 0  nsec 0 
+MO B  end    sec 0  nsec 0 
+SEN  start  sec 0  nsec 0 
+SEN  end    sec 0  nsec 0 
+GUI  start  sec 0  nsec 0 
+GUI  end    sec 0  nsec 0 
+MO F  start  sec 0  nsec 0 
+MO F  end    sec 0  nsec 0 
+MO B  start  sec 0  nsec 0 
+MO B  end    sec 0  nsec 0 
+SEN  start  sec 0  nsec 0 
+SEN  end    sec 0  nsec 0 
+GUI  start  sec 0  nsec 0 
+GUI  end    sec 0  nsec 0 
+MO F  start  sec 0  nsec 0 
+MO F  end    sec 0  nsec 0 
+MO B  start  sec 0  nsec 0 
+MO B  end    sec 0  nsec 0 
+SEN  start  sec 0  nsec 0 
+SEN  end    sec 0  nsec 0 
+GUI  start  sec 0  nsec 0 
+GUI  end    sec 0  nsec 0 
+MO F  start  sec 0  nsec 0 
+MO F  end    sec 0  nsec 0 
+MO B  start  sec 0  nsec 0 
+MO B  end    sec 0  nsec 0 
+SEN  start  sec 0  nsec 0 
+SEN  end    sec 0  nsec 0 
+GUI  start  sec 0  nsec 0 
+GUI  end    sec 0  nsec 0 
+MO F  start  sec 0  nsec 0 
+MO F  end    sec 0  nsec 0 
+MO B  start  sec 0  nsec 0 
+MO B  end    sec 0  nsec 0 
+SEN  start  sec 0  nsec 0 
+SEN  end    sec 0  nsec 0 
+GUI  start  sec 0  nsec 0 
+GUI  end    sec 0  nsec 0 
+MO F  start  sec 0  nsec 0 
+MO F  end    sec 0  nsec 0 
+MO B  start  sec 0  nsec 0 
+MO B  end    sec 0  nsec 0 
+SEN  start  sec 0  nsec 0 
+SEN  end    sec 0  nsec 0 
+GUI  start  sec 0  nsec 0 
+GUI  end    sec 0  nsec 0 
+MO F  start  sec 0  nsec 0 
+MO F  end    sec 0  nsec 0 
+MO B  start  sec 0  nsec 0 
+MO B  end    sec 0  nsec 0 
+SEN  start  sec 0  nsec 0 
+SEN  end    sec 0  nsec 0 
+GUI  start  sec 0  nsec 0 
+GUI  end    sec 0  nsec 0 
+MO F  start  sec 0  nsec 0 
+MO F  end    sec 0  nsec 0 
+MO B  start  sec 0  nsec 0 
+MO B  end    sec 0  nsec 0 
+SEN  start  sec 0  nsec 0 
+SEN  end    sec 0  nsec 0 
+GUI  start  sec 0  nsec 0 
+GUI  end    sec 0  nsec 0 
+MO F  start  sec 0  nsec 0 
+MO F  end    sec 0  nsec 0 
+MO B  start  sec 0  nsec 0 
+MO B  end    sec 0  nsec 0 
+SEN  start  sec 0  nsec 0 
+SEN  end    sec 0  nsec 0 
+GUI  start  sec 0  nsec 0 
+GUI  end    sec 0  nsec 0 
+MO F  start  sec 0  nsec 0 
+MO F  end    sec 0  nsec 0 
+MO B  start  sec 0  nsec 0 
+MO B  end    sec 0  nsec 0 
+SEN  start  sec 0  nsec 0 
+SEN  end    sec 0  nsec 0 
+GUI  start  sec 0  nsec 0 
+GUI  end    sec 0  nsec 0 
+MO F  start  sec 0  nsec 0 
+MO F  end    sec 0  nsec 0 
+MO B  start  sec 0  nsec 0 
+MO B  end    sec 0  nsec 0 
+SEN  start  sec 0  nsec 0 
+SEN  end    sec 0  nsec 0 
+GUI  start  sec 0  nsec 0 
+GUI  end    sec 0  nsec 0 
+MO F  start  sec 0  nsec 0 
+MO F  end    sec 0  nsec 0 
+MO B  start  sec 0  nsec 0 
+MO B  end    sec 0  nsec 0 
+SEN  start  sec 0  nsec 0 
+SEN  end    sec 0  nsec 0 
+GUI  start  sec 0  nsec 0 
+GUI  end    sec 0  nsec 0 
+MO F  start  sec 0  nsec 0 
+MO F  end    sec 0  nsec 0 
+MO B  start  sec 0  nsec 0 
+MO B  end    sec 0  nsec 0 
+SEN  start  sec 0  nsec 0 
+SEN  end    sec 0  nsec 0 
+GUI  start  sec 0  nsec 0 
+GUI  end    sec 0  nsec 0 
+MO F  start  sec 0  nsec 0 
+MO F  end    sec 0  nsec 0 
+MO B  start  sec 0  nsec 0 
+MO B  end    sec 0  nsec 0 
+SEN  start  sec 0  nsec 0 
+SEN  end    sec 0  nsec 0 
+GUI  start  sec 0  nsec 0 
+GUI  end    sec 0  nsec 0 
+MO F  start  sec 0  nsec 0 
+MO F  end    sec 0  nsec 0 
+MO B  start  sec 0  nsec 0 
+MO B  end    sec 0  nsec 0 
+SEN  start  sec 0  nsec 0 
+SEN  end    sec 0  nsec 0 
+GUI  start  sec 0  nsec 0 
+GUI  end    sec 0  nsec 0 
+MO F  start  sec 0  nsec 0 
+MO F  end    sec 0  nsec 0 
+MO B  start  sec 0  nsec 0 
+MO B  end    sec 0  nsec 0 
+SEN  start  sec 0  nsec 0 
+SEN  end    sec 0  nsec 0 
+GUI  start  sec 0  nsec 0 
+GUI  end    sec 0  nsec 0 
+MO F  start  sec 0  nsec 0 
+MO F  end    sec 0  nsec 0 
+MO B  start  sec 0  nsec 0 
+MO B  end    sec 0  nsec 0 
+SEN  start  sec 0  nsec 0 
+SEN  end    sec 0  nsec 0 
+GUI  start  sec 0  nsec 0 
+GUI  end    sec 0  nsec 0 
+MO F  start  sec 0  nsec 0 
+MO F  end    sec 0  nsec 0 
+MO B  start  sec 0  nsec 0 
+MO B  end    sec 0  nsec 0 
+SEN  start  sec 0  nsec 0 
+SEN  end    sec 0  nsec 0 
+GUI  start  sec 0  nsec 0 
+GUI  end    sec 0  nsec 0 
+MO F  start  sec 0  nsec 0 
+MO F  end    sec 0  nsec 0 
+MO B  start  sec 0  nsec 0 
+MO B  end    sec 0  nsec 0 
+SEN  start  sec 0  nsec 0 
+SEN  end    sec 0  nsec 0 
+GUI  start  sec 0  nsec 0 
+GUI  end    sec 0  nsec 0 
+MO F  start  sec 0  nsec 0 
+MO F  end    sec 0  nsec 0 
+MO B  start  sec 0  nsec 0 
+MO B  end    sec 0  nsec 0 
+SEN  start  sec 0  nsec 0 
+SEN  end    sec 0  nsec 0 
+GUI  start  sec 0  nsec 0 
+GUI  end    sec 0  nsec 0 
+MO F  start  sec 0  nsec 0 
+MO F  end    sec 0  nsec 0 
+MO B  start  sec 0  nsec 0 
+MO B  end    sec 0  nsec 0 
+SEN  start  sec 0  nsec 0 
+SEN  end    sec 0  nsec 0 
+GUI  start  sec 0  nsec 0 
+GUI  end    sec 0  nsec 0 
+MO F  start  sec 0  nsec 0 
+MO F  end    sec 0  nsec 0 
+MO B  start  sec 0  nsec 0 
+MO B  end    sec 0  nsec 0 
+SEN  start  sec 0  nsec 0 
+SEN  end    sec 0  nsec 0 
+GUI  start  sec 0  nsec 0 
+GUI  end    sec 0  nsec 0 
+MO F  start  sec 0  nsec 0 
+MO F  end    sec 0  nsec 0 
+MO B  start  sec 0  nsec 0 
+MO B  end    sec 0  nsec 0 
+SEN  start  sec 0  nsec 0 
+SEN  end    sec 0  nsec 0 
+GUI  start  sec 0  nsec 0 
+GUI  end    sec 0  nsec 0 
+MO F  start  sec 0  nsec 0 
+MO F  end    sec 0  nsec 0 
+MO B  start  sec 0  nsec 0 
+MO B  end    sec 0  nsec 0 
+SEN  start  sec 0  nsec 0 
+SEN  end    sec 0  nsec 0 
+GUI  start  sec 0  nsec 0 
+GUI  end    sec 0  nsec 0 
+MO F  start  sec 0  nsec 0 
+MO F  end    sec 0  nsec 0 
+MO B  start  sec 0  nsec 0 
+MO B  end    sec 0  nsec 0 
+SEN  start  sec 0  nsec 0 
+SEN  end    sec 0  nsec 0 
+GUI  start  sec 0  nsec 0 
+GUI  end    sec 0  nsec 0 
+MO F  start  sec 0  nsec 0 
+MO F  end    sec 0  nsec 0 
+MO B  start  sec 0  nsec 0 
+MO B  end    sec 0  nsec 0 
+SEN  start  sec 0  nsec 0 
+SEN  end    sec 0  nsec 0 
+GUI  start  sec 0  nsec 0 
+GUI  end    sec 0  nsec 0 
+MO F  start  sec 0  nsec 0 
+MO F  end    sec 0  nsec 0 
+MO B  start  sec 0  nsec 0 
+MO B  end    sec 0  nsec 0 
+SEN  start  sec 0  nsec 0 
+SEN  end    sec 0  nsec 0 
+GUI  start  sec 0  nsec 0 
+GUI  end    sec 0  nsec 0 
+MO F  start  sec 0  nsec 0 
+MO F  end    sec 0  nsec 0 
+MO B  start  sec 0  nsec 0 
+MO B  end    sec 0  nsec 0 
+SEN  start  sec 0  nsec 0 
+SEN  end    sec 0  nsec 0 
+GUI  start  sec 0  nsec 0 
+GUI  end    sec 0  nsec 0 
+MO F  start  sec 0  nsec 0 
+MO F  end    sec 0  nsec 0 
+MO B  start  sec 0  nsec 0 
+MO B  end    sec 0  nsec 0 
+SEN  start  sec 0  nsec 0 
+SEN  end    sec 0  nsec 0 
+GUI  start  sec 0  nsec 0 
+GUI  end    sec 0  nsec 0 
+MO F  start  sec 0  nsec 0 
+MO F  end    sec 0  nsec 0 
+MO B  start  sec 0  nsec 0 
+MO B  end    sec 0  nsec 0 
+SEN  start  sec 0  nsec 0 
+SEN  end    sec 0  nsec 0 
+GUI  start  sec 0  nsec 0 
+GUI  end    sec 0  nsec 0 
+MO F  start  sec 0  nsec 0 
+MO F  end    sec 0  nsec 0 
+MO B  start  sec 0  nsec 0 
+MO B  end    sec 0  nsec 0 
+SEN  start  sec 0  nsec 0 
+SEN  end    sec 0  nsec 0 
+GUI  start  sec 0  nsec 0 
+GUI  end    sec 0  nsec 0 
+MO F  start  sec 0  nsec 0 
+MO F  end    sec 0  nsec 0 
+MO B  start  sec 0  nsec 0 
+MO B  end    sec 0  nsec 0 
+SEN  start  sec 0  nsec 0 
+SEN  end    sec 0  nsec 0 
+GUI  start  sec 0  nsec 0 
+GUI  end    sec 0  nsec 0 
+MO F  start  sec 0  nsec 0 
+MO F  end    sec 0  nsec 0 
+MO B  start  sec 0  nsec 0 
+MO B  end    sec 0  nsec 0 
+SEN  start  sec 0  nsec 0 
+SEN  end    sec 0  nsec 0 
+GUI  start  sec 0  nsec 0 
+GUI  end    sec 0  nsec 0 
+MO F  start  sec 0  nsec 0 
+MO F  end    sec 0  nsec 0 
+MO B  start  sec 0  nsec 0 
+MO B  end    sec 0  nsec 0 
+SEN  start  sec 0  nsec 0 
+SEN  end    sec 0  nsec 0 
+GUI  start  sec 0  nsec 0 
+GUI  end    sec 0  nsec 0 
+MO F  start  sec 0  nsec 0 
+MO F  end    sec 0  nsec 0 
+MO B  start  sec 0  nsec 0 
+MO B  end    sec 0  nsec 0 
+SEN  start  sec 0  nsec 0 
+SEN  end    sec 0  nsec 0 
+GUI  start  sec 0  nsec 0 
+GUI  end    sec 0  nsec 0 
+MO F  start  sec 0  nsec 0 
+MO F  end    sec 0  nsec 0 
+MO B  start  sec 0  nsec 0 
+MO B  end    sec 0  nsec 0 
+SEN  start  sec 0  nsec 0 
+SEN  end    sec 0  nsec 0 
+GUI  start  sec 0  nsec 0 
+GUI  end    sec 0  nsec 0 
+MO F  start  sec 0  nsec 0 
+MO F  end    sec 0  nsec 0 
+MO B  start  sec 0  nsec 0 
+MO B  end    sec 0  nsec 0 
+SEN  start  sec 0  nsec 0 
+SEN  end    sec 0  nsec 0 
+GUI  start  sec 0  nsec 0 
+GUI  end    sec 0  nsec 0 
+MO F  start  sec 0  nsec 0 
+MO F  end    sec 0  nsec 0 
+MO B  start  sec 0  nsec 0 
+MO B  end    sec 0  nsec 0 
+SEN  start  sec 0  nsec 0 
+SEN  end    sec 0  nsec 0 
+GUI  start  sec 0  nsec 0 
+GUI  end    sec 0  nsec 0 
+MO F  start  sec 0  nsec 0 
+MO F  end    sec 0  nsec 0 
+MO B  start  sec 0  nsec 0 
+MO B  end    sec 0  nsec 0 
+SEN  start  sec 0  nsec 0 
+SEN  end    sec 0  nsec 0 
+GUI  start  sec 0  nsec 0 
+GUI  end    sec 0  nsec 0 
+MO F  start  sec 0  nsec 0 
+MO F  end    sec 0  nsec 0 
+MO B  start  sec 0  nsec 0 
+MO B  end    sec 0  nsec 0 
+SEN  start  sec 0  nsec 0 
+SEN  end    sec 0  nsec 0 
+GUI  start  sec 0  nsec 0 
+GUI  end    sec 0  nsec 0 
+MO F  start  sec 0  nsec 0 
+MO F  end    sec 0  nsec 0 
+MO B  start  sec 0  nsec 0 
+MO B  end    sec 0  nsec 0 
+SEN  start  sec 0  nsec 0 
+SEN  end    sec 0  nsec 0 
+GUI  start  sec 0  nsec 0 
+GUI  end    sec 0  nsec 0 
+MO F  start  sec 0  nsec 0 
+MO F  end    sec 0  nsec 0 
+MO B  start  sec 0  nsec 0 
+MO B  end    sec 0  nsec 0 
+SEN  start  sec 0  nsec 0 
+SEN  end    sec 0  nsec 0 
+BlockTime GUI:      0.000000
+BlockTime F MOTOR:  0.000000
+BlockTime B MOTOR:  0.000000
+BlockTime SENSOR:   0.001781
